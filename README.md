@@ -1,4 +1,4 @@
-# Practical Deep Learning Book 🚀
+# Practical Deep Learning 🚀
 All projects are aimed at providing a clearer understanding and practical use of deep learning, simplifying complex concepts and making the technology accessible to a wider audience.
 
 ## Features
